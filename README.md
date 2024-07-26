@@ -2,8 +2,8 @@
 wso-Green-shell
 Wso Green Shell
 	</div>
-					<h3 style="text-align: center;"><strong><img title="gren shell" src="https://www.wsoshell.org/uploads/blog/2022/05/gren-shell.jpg" alt="gren shell" width="1200" height="624" /></strong></h3>
-<h3 style="text-align: center;"><strong><img title="wsogren2" src="https://www.wsoshell.org/uploads/blog/2022/05/wsogren2.jpg" alt="wsogren2" width="1200" height="461" /></strong></h3>
+					<h3 style="text-align: center;"><strong><img title="gren shell" src="https://www.wsoshell.org/uploads/blog/2022/05/gren-shell.jpg" alt="gren shell" /></strong></h3>
+<h3 style="text-align: center;"><strong><img title="wsogren2" src="https://www.wsoshell.org/uploads/blog/2022/05/wsogren2.jpg" /></strong></h3>
 Sec. Info
 
 Files
